@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: jsonbyket
+Version: 1.0.0
+Summary: Configure JSON with exisiting json module
+Home-page: https://github.com/mypylibrary/jsonbyket
+Author: Ketan Badhe
+Author-email: badhe.ketan@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# jsonbyket
+Advanced and easy to use JSON configuration for python. Lets the developer configure their JSON using JSON. That sounds weird, but it's pretty neat and useful for programs that let users customize the settings via JSON. 
+ 
+**Can be installed via `pip3 install jsonbyket`**
+
